@@ -1,7 +1,7 @@
 # 🔐 React Registration & Login App
 
 A simple authentication system built with **React**, **Tailwind CSS**, **React Hook Form**, **React Router v6**, and **JSON Server**.  
-The app allows users to **register**, **log in**, and view **protected pages** available only after authentication.
+The app allows users to **register**, **log in**, and view **protected Dashboard** available only after authentication.
 
 ---
 
